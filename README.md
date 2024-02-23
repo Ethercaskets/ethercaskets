@@ -1,6 +1,8 @@
 ## What is Ethercaskets
 Ethercaskets epitomizes ERC40 innovation, boasting a curated collection of 5,000 NFTs while trailblazing as the inaugural platform for Layer 2 flowerpoker gambling. Utilizing Chainlink VRF, it ensures cryptographiocally secure and auditable game results, heralding a new era of trust and transparency in decentralized gambling.
 
+![fececd59352e873fc548cd9485ed2815](https://github.com/Ethercaskets/ethercaskets/assets/160652719/32191029-925b-47dd-bf0f-fde1b89c0232)
+
 ## What's the goal of Ethercaskets
 Ethercaskets was created in response to a notable trend in the ERC404 project landscape. We observed numerous projects attempting to replicate the official PANDORA contract, the pioneering ERC404 project. However, many of these projects ended up misusing or exploiting the functionality of the contract, leading to undesirable outcomes for their communities. 
 
