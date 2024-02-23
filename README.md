@@ -1,5 +1,5 @@
 ## What is Ethercaskets
-Ethercaskets epitomizes ERC40 innovation, boasting a curated collection of 5,000 NFTs while trailblazing as the inaugural platform for Layer 2 flowerpoker gambling. Utilizing Chainlink VRF, it ensures cryptographiocally secure and auditable game results, heralding a new era of trust and transparency in decentralized gambling.
+Ethercaskets epitomizes ERC404 innovation, boasting a curated collection of 5,000 NFTs while trailblazing as the inaugural platform for Layer 2 flowerpoker gambling. Utilizing Chainlink VRF, it ensures cryptographiocally secure and auditable game results, heralding a new era of trust and transparency in decentralized gambling.
 
 ![fececd59352e873fc548cd9485ed2815](https://github.com/Ethercaskets/ethercaskets/assets/160652719/32191029-925b-47dd-bf0f-fde1b89c0232)
 
@@ -18,12 +18,3 @@ EMERALD GitHub: [https://github.com/SJ741/SJ741-Token](https://github.com/SJ741/
 
 ## Caskets Collection
 Ethercaskets distributes four distinct types of NFT's, each representing a unique box type: Diamond, Platinum, Gold, and wooden. Upon acquiring Ethercaskets tokens, each holder is awarded one NFT corresponding to their token type. These NFTs act as admission tickets for engaging in the decentralized gambling game. Ethercaskets integrates [Chainlink VRF](https://docs.chain.link/) to guarantee the integrity and fairness of the gambling game. Chainlink VRF provides a secure and decentralized random number generation mechanism, enabling transparent and verifiable outcomes for each gambling match. The integration with Chainlink VRF enhances user trust and confidence in the Ethercaskets gambling platform. More information about the gambling mechanism, make your way to the Mechanism page.
-
-📦 **Diamond Box:** 150 NFT's (0.25%)
-
-📦 **Platinum Box:** 500 NFT's (0.5%)
-
-📦 **Gold Box:** 1,850 NFT's (30%)
-
-📦 **Wooden Box:** 2,500 NFT's (69.25%)
-
